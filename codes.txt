@@ -1,0 +1,5 @@
+L7
+python3 start.py GET https://www.roshen.com (https://www.roshen.com/)/ 0 1000 proxy 1000 9999999999999 --debug
+python3 start.py NULL https://www.roshen.com (https://www.roshen.com/)/ 0 1000 proxy 1000 9999999999999 --debug
+L4
+python3 start.py UDP https://www.roshen.com (https://www.roshen.com/)/ 1000 9999999 --debug
